@@ -1,0 +1,46 @@
+.login_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+  @media screen and (max-width: 500px) {
+    flex-direction: column !important;
+  }
+  button {
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border: 2px solid #002f34;
+    color: #002f34;
+    font-weight: 700;
+    font-size: 16px;
+    @media screen and (max-width: 500px) {
+      margin-top: 15px !important;
+      width: 80% !important;
+    }
+    span {
+      display: flex;
+      align-items: center;
+      margin-right: 10px;
+    }
+  }
+  .googleButton {
+    margin-top: 15px;
+  }
+}
+
+.LoginInput_wrapper {
+  margin: 15px 0;
+  .login_title {
+    margin: 10px 0;
+  }
+}
+
+.loginButton {
+  width: 180px;
+  padding: 15px 25px !important;
+  border-radius: 30px !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+}

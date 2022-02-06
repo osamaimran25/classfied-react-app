@@ -1,0 +1,45 @@
+completed design login signup and signup with social media FB and google is enough user panel where they can see their ads which they have posted and perform CRUD on ads search bar for searching ads new ads feed posting an ad (in which dynamic form generation is required according to category ) A chat feature where two people can communicate (buyer and seller) pleas read above and let me know can you do it? all required in react all should be responsive
+
+
+1. fb and google
+2. they have posted and perform CRUD on ads search bar for searching ads new ads feed posting an ad (in which dynamic form generation is required according to category )
+
+3. A chat feature where two people can communicate (buyer and seller)
+
+
+
+
+
+
+1.single ads details: https://www.olx.in/item/ipad-pro-2nd-generation-wificellular-512-gb-129-inch-iid-1600975704
+
+
+
+https://www.facebook.com/settings ---- dashboard simple
+2.https://my.gumtree.com/manage-account/ --- name eigula follow kora lagbe
+
+3.https://www.olx.in/ [home page]
+4. https://www.olx.in/nf/chat [chat]
+
+5. login page : https://i.imgur.com/4Xk5PUJ.png
+6. signUp : https://i.imgur.com/bAsg3Hf.png
+7. ads Post : https://www.olx.in/post
+
+8. https://www.olx.in/mobiles_c1411 [category]
+9.https://www.olx.in/myorders/invoices
+
+
+
+
+
+//url
+https://documenter.getpostman.com/view/10766349/TWDUqddE#72023335-ac30-4529-a16e-cecc07154846
+
+
+
+buttons color should be light color and some fancy hover and border
+user some good fonds with light weight it is making heavy to user eyes
+add location field next to search and both of them should be center
+user icon for chat
+reduce the width of button of profile or make a drop down which should have all options
+AND PLEASE DONT COPY OLX DESIGN
